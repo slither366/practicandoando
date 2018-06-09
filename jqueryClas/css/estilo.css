@@ -1,0 +1,63 @@
+*{
+	margin:0;
+	padding:0;
+	list-style:none;
+	text-decoration:none;
+	font-family:sans-serif;
+}
+
+#caja{
+	width: 200px;
+	height: 100px;
+	background: blue;
+	cursor: pointer;
+}
+
+.cajas{
+	position: relative;
+	width: 100px;
+	height: 100px;
+	background: #59D714;
+	margin: 20px;
+	cursor: pointer;
+}
+
+input{
+	padding: 10px;
+}
+
+button{
+	padding: 10px;
+	margin: 30px;
+}
+
+#caja2{
+	position: relative;
+	margin: 20px;
+	width: 30px;
+	height: 30px;
+	background: yellow;
+	cursor: pointer;
+}
+
+.parrafo{
+	color: white;
+	font-size: 24px;
+	background: green;
+	padding: 20px;
+	text-align: right;
+}
+
+#contenedor{
+	margin: 0px;
+}
+
+#c3{
+	padding: 20px;
+	text-align: center;
+	width: 300px;
+	height: auto;
+	background: chocolate;
+	color: white;
+	display: none;/*Esconde la caja*/
+}
