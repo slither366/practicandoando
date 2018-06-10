@@ -1,0 +1,29 @@
+#p1{
+	background-color: red;
+}
+#p2{
+	background-color: yellow;
+}
+#p3{
+	background-color: blue;
+}
+#p4{
+	background-color: green;
+}
+.nuevaClase{
+	color: green;
+	font-size: 25px;
+
+}
+.miClase1{
+	color:red;
+}
+.miClase2{
+	color:orange;
+}
+.miClase3{
+	color: brown;
+}
+.miClase4{
+	color: green;
+}
